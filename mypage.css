@@ -1,0 +1,46 @@
+#MyName  {
+color:red;
+border: 15px solid transparent;
+padding: 15px;    
+border-image: url(border.png);
+border-image-slice:30;
+border-image-repeat: round;
+}
+
+
+#body {
+  background-image: url("pattern.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+h2 {
+color:#FF5733 ;	
+}
+
+#hakkımda {
+border:5px solid transparent;
+border-color:#C63618;
+border-radius: 20px;
+width: 130px;
+}
+
+
+
+
+
+
+
+
+
+  #yeşiladam {
+border: 3px solid #4CAF50;
+padding: 5px;	
+}
+#resim1{
+width: 960px
+}
+#desc1{
+padding: 5px;
+}
